@@ -2,6 +2,8 @@
 
 This repository contains implementations of various optimization and simulation projects aimed at solving real-world problems in manufacturing and inventory management, along with a classification task for widget quality assessment.
 
+![demo](demo.png)
+
 ## Projects Overview
 
 ### 1. Particle Swarm Optimization (PSO) for Manufacturing Cost Minimization
